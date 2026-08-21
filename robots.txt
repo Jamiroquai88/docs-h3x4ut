@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-p4nqg9.isototo65tzs.lat/sitemap.xml
